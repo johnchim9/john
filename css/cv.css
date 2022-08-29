@@ -1,0 +1,126 @@
+body{ 
+	background-image:url(../image/johnchim.jpg);
+	 background-position:center; 
+	 background-repeat: no-repeat; 
+	 background-size: cover;
+	}
+	.intro{
+		background-color: darkgreen;
+		}
+	.subheading{
+		font-weight: bold; font-style: italic; font-size: 50px;
+	}
+	.black{
+		 height:150px; 
+		 width:180px;
+		 border-radius: 50px; 
+		 border:1px solid black; 
+		 display: inline;
+	}
+	.green{
+		 height:150px; 
+		 width:180px;
+		 border-radius: 50px; 
+		 border:1px solid black; 
+		 display: inline;
+	}
+	.red{
+		 height:150px; 
+		 width:180px;
+		 border-radius: 50px; 
+		 border:1px solid black; 
+		 display: inline;
+	}
+	.blue{
+		 height:150px; 
+		 width:180px;
+		 border-radius: 50px; 
+		 border:1px solid black; 
+		 display: inline;
+	}
+	.white{
+		 height:150px; 
+		 width:180px;
+		 border-radius: 50px; 
+		 border:1px solid black; 
+		 display: inline;
+	}
+	.purple{
+		 height:150px; 
+		 width:180px;
+		 border-radius: 50px; 
+		 border:1px solid black; 
+		 display: inline;
+	}
+	.yellow{
+		 height:150px; 
+		 width:180px;
+		 border-radius: 50px; 
+		 border:1px solid black; 
+		 display: inline;
+	}
+	.data{
+		font-weight: bold;
+		 font-style: italic; 
+		 font-size: 35px; 
+		 background-color: lightgreen; 
+		 width: 800px;"
+	 }
+	 .new{
+	 	font-weight: bold; 
+	 	font-style: italic; 
+	 	font-size: 30px;
+	 }
+	 .heading{
+	 	font-weight: bold; 
+	 	font-style: italic; 
+	 	font-size: 35px; 
+	 	background-color: lightgreen;
+	    width: 800px;
+	}
+	.prof{
+		font-weight: bold; 
+		font-style: italic; 
+		font-size: 35px; 
+		background-color: lightgreen; 
+		width: 800px;
+	}
+	.subheading{
+		font-weight: bold;
+	    font-style: italic; 
+	    font-size: 50px;
+	}
+	.skill_name{
+		font-weight: bold; 
+		font-style: italic; 
+		font-size: 40px; 
+		background-color: lightgreen; 
+		width: 1000px;
+	}
+	.date{
+		 font-weight: bold;
+	     font-style: italic; 
+	     font-size: 40px; 
+	     background-color: lightgreen; 
+	     width: 800px;"
+	}
+	.jobdesc{
+		font-weight: bold; 
+        font-style: italic; 
+	    font-size: 40px;
+	    background-color: lightgreen; 
+	    width: 800px;
+	}
+	.icon{ 
+		width:30px; 
+		display: inline;
+	}
+	.dead{
+		 font-weight: bold; 
+		 font-style: italic; 
+		 font-size: 30px; 
+		 background-color: palegreen;
+		 color: blue;
+		 width: 150px; 
+		 display: inline;
+	}
